@@ -1,0 +1,14 @@
+D:\projects\C#\ex2\ex2\bin\Debug\net6.0\ex2.exe
+D:\projects\C#\ex2\ex2\bin\Debug\net6.0\ex2.deps.json
+D:\projects\C#\ex2\ex2\bin\Debug\net6.0\ex2.runtimeconfig.json
+D:\projects\C#\ex2\ex2\bin\Debug\net6.0\ex2.dll
+D:\projects\C#\ex2\ex2\bin\Debug\net6.0\ex2.pdb
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.AssemblyInfoInputs.cache
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.AssemblyInfo.cs
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.csproj.CoreCompileInputs.cache
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.dll
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\refint\ex2.dll
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.pdb
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ex2.genruntimeconfig.cache
+D:\projects\C#\ex2\ex2\obj\Debug\net6.0\ref\ex2.dll
